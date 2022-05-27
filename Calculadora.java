@@ -5,7 +5,9 @@
  */
 package com.mycompany.calculadora;
 public class Calculadora {
+	
 
+	//hola susana
    private int num1;
    private int num2;
    public Calculadora(int n1, int n2){
